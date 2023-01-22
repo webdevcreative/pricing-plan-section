@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+  --dark-purple: #a113ff;
+  --light-purple: #e678ff;
+  --dark-orange: #fc8413;
+  --light-orange: #ffbf7b;
+  --dark-pink: #fe1799;
+  --light-pink: #fd9baa;
+}
